@@ -1,0 +1,11 @@
+﻿order_id,customer_id,product,category,quantity,unit_price,region,order_status
+1001,C101,Laptop,Electronics,1,60000,North,Delivered
+1002,C102,Mouse,Electronics,2,800,South,Delivered
+1003,C103,Chair,Furniture,1,5000,West,Delivered
+1004,C101,Keyboard,Electronics,1,1500,North,Cancelled
+1005,C104,Desk,Furniture,1,8000,East,Delivered
+1006,C105,Headphones,Electronics,2,2000,South,Delivered
+1007,C102,Monitor,Electronics,1,12000,South,Delivered
+1008,C106,Chair,Furniture,2,5000,West,Delivered
+1009,C107,Laptop,Electronics,1,65000,North,Delivered
+1010,C108,Desk,Furniture,1,7500,East,Cancelled
