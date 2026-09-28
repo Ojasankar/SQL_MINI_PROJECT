@@ -1,0 +1,6 @@
+customer_id,customer_name,city,age,spending
+C101,Rahul ,mumbai,25,'50000'
+C102,Priya,MUMBAI,NULL,'65000'
+C103,Amit,delhi ,28,NULL
+C104,Neha ,Delhi,24,'45000'
+C105,Arjun,mumbai,NULL,'72000'
