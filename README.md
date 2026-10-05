@@ -4,12 +4,12 @@
 
 Management wants to understand:
 
-Which customers are generating the most revenue? <br>
-Which customers are inactive? <br>
-How many orders does each customer place? <br>
-Which customers are high-value? <br>
-Which cities generate the most sales? <br>
-Which customers need attention? <br>
+1.Which customers are generating the most revenue? <br>
+2.Which customers are inactive? <br>
+3.How many orders does each customer place? <br>
+4.Which customers are high-value? <br>
+5.Which cities generate the most sales? <br>
+6.Which customers need attention? <br>
 
 ## Project Data Set :
 
